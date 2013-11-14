@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /art/
+Disallow: /categories/
+Disallow: /scripts/
+Disallow: /tags/
+Allow: /
